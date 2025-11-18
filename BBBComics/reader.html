@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comic Reader - BBB Comics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="reader-page">
+    <header class="reader-header">
+        <a href="index.html" class="back-link">← Back to Library</a>
+        <h1 id="comic-title">Loading...</h1>
+    </header>
+
+    <main class="reader">
+        <div class="reader-container">
+            <img id="comic-page" src="" alt="Comic page" class="comic-image">
+        </div>
+
+        <div class="reader-controls">
+            <button id="prev-btn" class="nav-btn" aria-label="Previous page">← Previous</button>
+            <span id="page-info" class="page-info">Page 1 of 1</span>
+            <button id="next-btn" class="nav-btn" aria-label="Next page">Next →</button>
+        </div>
+
+        <div class="comic-info">
+            <p id="comic-description"></p>
+            <p class="comic-meta">
+                <span id="comic-date"></span>
+            </p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 BBB Comics. All rights reserved.</p>
+    </footer>
+
+    <script src="reader.js"></script>
+</body>
+</html>

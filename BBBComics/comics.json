@@ -1,0 +1,17 @@
+{
+  "comics": [
+    {
+      "id": "example-comic-1",
+      "title": "My First Comic",
+      "description": "An example comic to demonstrate the website structure.",
+      "date": "2025-11-18",
+      "coverImage": "images/example-comic-1/cover.jpg",
+      "pageCount": 3,
+      "pages": [
+        "images/example-comic-1/page-1.jpg",
+        "images/example-comic-1/page-2.jpg",
+        "images/example-comic-1/page-3.jpg"
+      ]
+    }
+  ]
+}
