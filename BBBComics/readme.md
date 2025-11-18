@@ -39,6 +39,7 @@ BBBComics/
    - Keep file size under 1-2 MB per image
 
 2. **Create a folder for your comic:**
+
    ```
    images/my-new-comic/
    ```
@@ -48,6 +49,7 @@ BBBComics/
    - `page-1.jpg`, `page-2.jpg`, etc.
 
 4. **Update `comics.json`:**
+
    ```json
    {
      "comics": [
@@ -77,6 +79,7 @@ BBBComics/
 ### First-time Setup
 
 1. **Push this code to GitHub:**
+
    ```powershell
    git add .
    git commit -m "Initial BBB Comics website"
@@ -96,6 +99,7 @@ BBBComics/
    - Or move all BBBComics files to repository root
 
 4. **Wait a few minutes** and your site will be live at:
+
    ```
    https://[your-username].github.io/[repository-name]/
    ```
@@ -117,10 +121,12 @@ Changes will appear on your site within a few minutes.
 To test the site locally before deploying:
 
 1. **Option 1: Python HTTP Server**
+
    ```powershell
    cd BBBComics
    python -m http.server 8000
    ```
+
    Then visit: `http://localhost:8000`
 
 2. **Option 2: VS Code Live Server**
@@ -128,6 +134,7 @@ To test the site locally before deploying:
    - Right-click `index.html` → "Open with Live Server"
 
 3. **Option 3: Node.js http-server**
+
    ```powershell
    npm install -g http-server
    cd BBBComics
@@ -142,13 +149,17 @@ To test the site locally before deploying:
 - Currently set to "Quentin and Friends"
 
 ### Change Color Scheme
+
 Edit `styles.css` and modify:
+
 - `#2c3e50` - Header/footer background
 - `#3498db` - Button color
 - `#1a1a1a` - Reader page background
 
 ### Add More Features
+
 The codebase is simple and extensible. Consider adding:
+
 - Search functionality
 - Categories/tags
 - Download as PDF option
@@ -157,16 +168,19 @@ The codebase is simple and extensible. Consider adding:
 ## Troubleshooting
 
 **Comics not loading:**
+
 - Check browser console (F12) for errors
 - Verify `comics.json` is valid JSON
 - Check that image paths are correct
 
 **Images not displaying:**
+
 - Verify images are committed to git
 - Check file names match exactly (case-sensitive)
 - Ensure images are in JPG format
 
 **Site not updating:**
+
 - Clear browser cache (Ctrl+F5)
 - Check GitHub Actions for deployment status
 - Wait a few minutes after pushing changes
