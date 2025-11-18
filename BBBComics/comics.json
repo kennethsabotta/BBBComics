@@ -1,16 +1,48 @@
 {
   "comics": [
     {
-      "id": "example-comic-1",
-      "title": "My First Comic",
-      "description": "An example comic to demonstrate the website structure.",
-      "date": "2025-11-18",
-      "coverImage": "images/example-comic-1/cover.jpg",
-      "pageCount": 3,
+      "id": "space-adventure",
+      "title": "Space Adventure",
+      "description": "Join our heroes as they explore the galaxy and discover new planets!",
+      "date": "2025-11-15",
+      "coverImage": "https://via.placeholder.com/400x300/005da6/5ac246?text=Space+Adventure",
+      "pageCount": 4,
       "pages": [
-        "images/example-comic-1/page-1.jpg",
-        "images/example-comic-1/page-2.jpg",
-        "images/example-comic-1/page-3.jpg"
+        "https://via.placeholder.com/1200x1600/005da6/ffffff?text=Space+Adventure+-+Page+1",
+        "https://via.placeholder.com/1200x1600/0c4d7a/ffffff?text=Space+Adventure+-+Page+2",
+        "https://via.placeholder.com/1200x1600/005da6/ffffff?text=Space+Adventure+-+Page+3",
+        "https://via.placeholder.com/1200x1600/0c4d7a/ffffff?text=Space+Adventure+-+Page+4"
+      ]
+    },
+    {
+      "id": "robot-friends",
+      "title": "Robot Friends",
+      "description": "A story about friendship between a boy and his robot companion.",
+      "date": "2025-11-10",
+      "coverImage": "https://via.placeholder.com/400x300/5ac246/005da6?text=Robot+Friends",
+      "pageCount": 5,
+      "pages": [
+        "https://via.placeholder.com/1200x1600/5ac246/000000?text=Robot+Friends+-+Page+1",
+        "https://via.placeholder.com/1200x1600/4a9e38/000000?text=Robot+Friends+-+Page+2",
+        "https://via.placeholder.com/1200x1600/5ac246/000000?text=Robot+Friends+-+Page+3",
+        "https://via.placeholder.com/1200x1600/4a9e38/000000?text=Robot+Friends+-+Page+4",
+        "https://via.placeholder.com/1200x1600/5ac246/000000?text=Robot+Friends+-+Page+5"
+      ]
+    },
+    {
+      "id": "dragon-quest",
+      "title": "Dragon Quest",
+      "description": "A brave knight sets out on an epic quest to find the legendary dragon.",
+      "date": "2025-11-05",
+      "coverImage": "https://via.placeholder.com/400x300/1a1a1a/5ac246?text=Dragon+Quest",
+      "pageCount": 6,
+      "pages": [
+        "https://via.placeholder.com/1200x1600/1a1a1a/5ac246?text=Dragon+Quest+-+Page+1",
+        "https://via.placeholder.com/1200x1600/2a2a2a/5ac246?text=Dragon+Quest+-+Page+2",
+        "https://via.placeholder.com/1200x1600/1a1a1a/5ac246?text=Dragon+Quest+-+Page+3",
+        "https://via.placeholder.com/1200x1600/2a2a2a/5ac246?text=Dragon+Quest+-+Page+4",
+        "https://via.placeholder.com/1200x1600/1a1a1a/5ac246?text=Dragon+Quest+-+Page+5",
+        "https://via.placeholder.com/1200x1600/2a2a2a/5ac246?text=Dragon+Quest+-+Page+6"
       ]
     }
   ]

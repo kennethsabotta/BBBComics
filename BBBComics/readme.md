@@ -1,6 +1,8 @@
-# BBB Comics Website
+# Blah Blah Blah Comics Website
 
 A simple static website for displaying comic pages. Built for GitHub Pages hosting.
+
+**BBB Comics** = **B**lah **B**lah **B**lah Comics
 
 ## Project Structure
 
@@ -135,8 +137,9 @@ To test the site locally before deploying:
 ## Customization
 
 ### Update Site Title and Author
-- Edit `index.html` - change "BBB Comics" and tagline
-- Update `[Your Son's Name]` with the actual author name
+
+- Edit `index.html` - change "Blah Blah Blah Comics" and tagline
+- Currently set to "Quentin and Friends"
 
 ### Change Color Scheme
 Edit `styles.css` and modify:
@@ -170,4 +173,4 @@ The codebase is simple and extensible. Consider adding:
 
 ## License
 
-© 2025 BBB Comics. All rights reserved.
+© 2025 Blah Blah Blah Comics. All rights reserved.
