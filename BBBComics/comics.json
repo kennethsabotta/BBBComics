@@ -1,6 +1,32 @@
 {
   "comics": [
     {
+      "id": "weird-pants",
+      "title": "Weird Pants",
+      "description": "The first comic adventure by Quentin and Friends!",
+      "date": "2025-12-31",
+      "coverImage": "images/WeirdPants/WeirdPants_01.jpg",
+      "pageCount": 16,
+      "pages": [
+        "images/WeirdPants/WeirdPants_01.jpg",
+        "images/WeirdPants/WeirdPants_02.jpg",
+        "images/WeirdPants/WeirdPants_03.jpg",
+        "images/WeirdPants/WeirdPants_04.jpg",
+        "images/WeirdPants/WeirdPants_05.jpg",
+        "images/WeirdPants/WeirdPants_06.jpg",
+        "images/WeirdPants/WeirdPants_07.jpg",
+        "images/WeirdPants/WeirdPants_08.jpg",
+        "images/WeirdPants/WeirdPants_09.jpg",
+        "images/WeirdPants/WeirdPants_10.jpg",
+        "images/WeirdPants/WeirdPants_11.jpg",
+        "images/WeirdPants/WeirdPants_12.jpg",
+        "images/WeirdPants/WeirdPants_13.jpg",
+        "images/WeirdPants/WeirdPants_14.jpg",
+        "images/WeirdPants/WeirdPants_15.jpg",
+        "images/WeirdPants/WeirdPants_16.jpg"
+      ]
+    },
+    {
       "id": "space-adventure",
       "title": "Space Adventure",
       "description": "Join our heroes as they explore the galaxy and discover new planets!",
