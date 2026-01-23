@@ -45,6 +45,27 @@
         "images/MrWeirdPants/MrWeirdPants_09.jpg",
         "images/MrWeirdPants/MrWeirdPants_10.jpg"
       ]
+    },
+    {
+      "id": "cake-wars",
+      "title": "Cake Wars",
+      "description": "A delicious new adventure by Quentin and Friends!",
+      "date": "2026-01-22",
+      "coverImage": "images/CakeWars/CakeWars00.jpg",
+      "pageCount": 11,
+      "pages": [
+        "images/CakeWars/CakeWars00.jpg",
+        "images/CakeWars/CakeWars01.jpg",
+        "images/CakeWars/CakeWars02.jpg",
+        "images/CakeWars/CakeWars03.jpg",
+        "images/CakeWars/CakeWars05.jpg",
+        "images/CakeWars/CakeWars06.jpg",
+        "images/CakeWars/CakeWars07.jpg",
+        "images/CakeWars/CakeWars08.jpg",
+        "images/CakeWars/CakeWars09.jpg",
+        "images/CakeWars/CakeWars10.jpg",
+        "images/CakeWars/CakeWars11.jpg"
+      ]
     }
   ]
 }
