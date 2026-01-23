@@ -48,3 +48,27 @@ Then open http://localhost:8000 in your browser.
     ├── MrWeirdPants/
     └── CakeWars/
 ```
+
+## Repository Setup
+
+This project is maintained in two repositories that must be kept in sync:
+
+- **Azure DevOps (origin)**: `https://dev.azure.com/microsoft/OS.Developer/_git/KSabotta.Scratch`
+- **GitHub (github)**: `https://github.com/kennethsabotta/BBBComics.git`
+
+The GitHub repository hosts the public site via GitHub Pages at **blahblahblahcomics.com**.
+
+### Pushing Changes
+
+After committing changes, push to both remotes:
+
+```bash
+git push origin main
+git push github main
+```
+
+Or push to both at once:
+
+```bash
+git push origin main && git push github main
+```
