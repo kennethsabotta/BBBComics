@@ -11,6 +11,37 @@ async function loadComics() {
     }
 }
 
+// Load comic cards data and display
+async function loadCards() {
+    try {
+        const response = await fetch('cards.json');
+        const data = await response.json();
+        displayCards(data.cards);
+    } catch (error) {
+        console.error('Error loading cards:', error);
+        document.getElementById('cards-grid').innerHTML = 
+            '<p class="loading">No comic cards available yet.</p>';
+    }
+}
+
+function displayCards(cards) {
+    const grid = document.getElementById('cards-grid');
+    
+    if (!cards || cards.length === 0) {
+        grid.innerHTML = '<p class="loading">No comic cards available yet.</p>';
+        return;
+    }
+
+    grid.innerHTML = cards.map(card => `
+        <div class="card-item">
+            <img src="${card.image}" alt="${card.title}">
+            <div class="card-item-content">
+                <h3>${card.title}</h3>
+            </div>
+        </div>
+    `).join('');
+}
+
 function displayComics(comics) {
     const grid = document.getElementById('comics-grid');
     
@@ -32,4 +63,7 @@ function displayComics(comics) {
 }
 
 // Initialize when page loads
-document.addEventListener('DOMContentLoaded', loadComics);
+document.addEventListener('DOMContentLoaded', () => {
+    loadComics();
+    loadCards();
+});

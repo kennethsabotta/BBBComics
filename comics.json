@@ -5,25 +5,25 @@
       "title": "Weird Pants",
       "description": "The first comic adventure by Quentin and Friends!",
       "date": "2025-12-31",
-      "coverImage": "images/WeirdPants/WeirdPants_01.jpg",
+      "coverImage": "images/comics/WeirdPants/WeirdPants_01.jpg",
       "pageCount": 16,
       "pages": [
-        "images/WeirdPants/WeirdPants_01.jpg",
-        "images/WeirdPants/WeirdPants_02.jpg",
-        "images/WeirdPants/WeirdPants_03.jpg",
-        "images/WeirdPants/WeirdPants_04.jpg",
-        "images/WeirdPants/WeirdPants_05.jpg",
-        "images/WeirdPants/WeirdPants_06.jpg",
-        "images/WeirdPants/WeirdPants_07.jpg",
-        "images/WeirdPants/WeirdPants_08.jpg",
-        "images/WeirdPants/WeirdPants_09.jpg",
-        "images/WeirdPants/WeirdPants_10.jpg",
-        "images/WeirdPants/WeirdPants_11.jpg",
-        "images/WeirdPants/WeirdPants_12.jpg",
-        "images/WeirdPants/WeirdPants_13.jpg",
-        "images/WeirdPants/WeirdPants_14.jpg",
-        "images/WeirdPants/WeirdPants_15.jpg",
-        "images/WeirdPants/WeirdPants_16.jpg"
+        "images/comics/WeirdPants/WeirdPants_01.jpg",
+        "images/comics/WeirdPants/WeirdPants_02.jpg",
+        "images/comics/WeirdPants/WeirdPants_03.jpg",
+        "images/comics/WeirdPants/WeirdPants_04.jpg",
+        "images/comics/WeirdPants/WeirdPants_05.jpg",
+        "images/comics/WeirdPants/WeirdPants_06.jpg",
+        "images/comics/WeirdPants/WeirdPants_07.jpg",
+        "images/comics/WeirdPants/WeirdPants_08.jpg",
+        "images/comics/WeirdPants/WeirdPants_09.jpg",
+        "images/comics/WeirdPants/WeirdPants_10.jpg",
+        "images/comics/WeirdPants/WeirdPants_11.jpg",
+        "images/comics/WeirdPants/WeirdPants_12.jpg",
+        "images/comics/WeirdPants/WeirdPants_13.jpg",
+        "images/comics/WeirdPants/WeirdPants_14.jpg",
+        "images/comics/WeirdPants/WeirdPants_15.jpg",
+        "images/comics/WeirdPants/WeirdPants_16.jpg"
       ]
     },
     {
@@ -31,19 +31,19 @@
       "title": "Mr. Weird Pants",
       "description": "The exciting sequel to Weird Pants by Quentin and Friends!",
       "date": "2026-01-04",
-      "coverImage": "images/MrWeirdPants/MrWeirdPants_01.jpg",
+      "coverImage": "images/comics/MrWeirdPants/MrWeirdPants_01.jpg",
       "pageCount": 10,
       "pages": [
-        "images/MrWeirdPants/MrWeirdPants_01.jpg",
-        "images/MrWeirdPants/MrWeirdPants_02.jpg",
-        "images/MrWeirdPants/MrWeirdPants_03.jpg",
-        "images/MrWeirdPants/MrWeirdPants_04.jpg",
-        "images/MrWeirdPants/MrWeirdPants_05.jpg",
-        "images/MrWeirdPants/MrWeirdPants_06.jpg",
-        "images/MrWeirdPants/MrWeirdPants_07.jpg",
-        "images/MrWeirdPants/MrWeirdPants_08.jpg",
-        "images/MrWeirdPants/MrWeirdPants_09.jpg",
-        "images/MrWeirdPants/MrWeirdPants_10.jpg"
+        "images/comics/MrWeirdPants/MrWeirdPants_01.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_02.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_03.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_04.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_05.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_06.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_07.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_08.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_09.jpg",
+        "images/comics/MrWeirdPants/MrWeirdPants_10.jpg"
       ]
     },
     {
@@ -51,20 +51,20 @@
       "title": "Cake Wars",
       "description": "A delicious new adventure by Quentin and Friends!",
       "date": "2026-01-22",
-      "coverImage": "images/CakeWars/CakeWars00.jpg",
+      "coverImage": "images/comics/CakeWars/CakeWars00.jpg",
       "pageCount": 11,
       "pages": [
-        "images/CakeWars/CakeWars00.jpg",
-        "images/CakeWars/CakeWars01.jpg",
-        "images/CakeWars/CakeWars02.jpg",
-        "images/CakeWars/CakeWars03.jpg",
-        "images/CakeWars/CakeWars05.jpg",
-        "images/CakeWars/CakeWars06.jpg",
-        "images/CakeWars/CakeWars07.jpg",
-        "images/CakeWars/CakeWars08.jpg",
-        "images/CakeWars/CakeWars09.jpg",
-        "images/CakeWars/CakeWars10.jpg",
-        "images/CakeWars/CakeWars11.jpg"
+        "images/comics/CakeWars/CakeWars00.jpg",
+        "images/comics/CakeWars/CakeWars01.jpg",
+        "images/comics/CakeWars/CakeWars02.jpg",
+        "images/comics/CakeWars/CakeWars03.jpg",
+        "images/comics/CakeWars/CakeWars05.jpg",
+        "images/comics/CakeWars/CakeWars06.jpg",
+        "images/comics/CakeWars/CakeWars07.jpg",
+        "images/comics/CakeWars/CakeWars08.jpg",
+        "images/comics/CakeWars/CakeWars09.jpg",
+        "images/comics/CakeWars/CakeWars10.jpg",
+        "images/comics/CakeWars/CakeWars11.jpg"
       ]
     },
     {
@@ -72,11 +72,11 @@
       "title": "Newspaper Vol. 1",
       "description": "The latest news from Quentin and Friends!",
       "date": "2026-01-26",
-      "coverImage": "images/NewspaperVol1/NewspaperVol1.jpg",
+      "coverImage": "images/comics/NewspaperVol1/NewspaperVol1.jpg",
       "pageCount": 2,
       "pages": [
-        "images/NewspaperVol1/NewspaperVol1.jpg",
-        "images/NewspaperVol1/NewspaperVol2.jpg"
+        "images/comics/NewspaperVol1/NewspaperVol1.jpg",
+        "images/comics/NewspaperVol1/NewspaperVol2.jpg"
       ]
     },
     {
@@ -84,11 +84,11 @@
       "title": "PBBBBT",
       "description": "A silly adventure by Quentin and Friends!",
       "date": "2026-01-26",
-      "coverImage": "images/PBBBBT/PBBBBT1.jpg",
+      "coverImage": "images/comics/PBBBBT/PBBBBT1.jpg",
       "pageCount": 2,
       "pages": [
-        "images/PBBBBT/PBBBBT1.jpg",
-        "images/PBBBBT/PBBBBT2.jpg"
+        "images/comics/PBBBBT/PBBBBT1.jpg",
+        "images/comics/PBBBBT/PBBBBT2.jpg"
       ]
     }
   ]
