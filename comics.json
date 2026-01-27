@@ -66,6 +66,30 @@
         "images/CakeWars/CakeWars10.jpg",
         "images/CakeWars/CakeWars11.jpg"
       ]
+    },
+    {
+      "id": "newspaper-vol1",
+      "title": "Newspaper Vol. 1",
+      "description": "The latest news from Quentin and Friends!",
+      "date": "2026-01-26",
+      "coverImage": "images/NewspaperVol1/NewspaperVol1.jpg",
+      "pageCount": 2,
+      "pages": [
+        "images/NewspaperVol1/NewspaperVol1.jpg",
+        "images/NewspaperVol1/NewspaperVol2.jpg"
+      ]
+    },
+    {
+      "id": "pbbbbt",
+      "title": "PBBBBT",
+      "description": "A silly adventure by Quentin and Friends!",
+      "date": "2026-01-26",
+      "coverImage": "images/PBBBBT/PBBBBT1.jpg",
+      "pageCount": 2,
+      "pages": [
+        "images/PBBBBT/PBBBBT1.jpg",
+        "images/PBBBBT/PBBBBT2.jpg"
+      ]
     }
   ]
 }
