@@ -3,6 +3,18 @@
     {
       "title": "Cool Guy",
       "image": "images/cards/CoolGuy.jpg"
+    },
+    {
+      "title": "Alien Boss",
+      "image": "images/cards/Alien Boss.jpg"
+    },
+    {
+      "title": "Funny Chester",
+      "image": "images/cards/Funny Chester.jpg"
+    },
+    {
+      "title": "Question Mark",
+      "image": "images/cards/Question Mark.jpg"
     }
   ]
 }
