@@ -90,6 +90,77 @@
         "images/comics/PBBBBT/PBBBBT1.jpg",
         "images/comics/PBBBBT/PBBBBT2.jpg"
       ]
+    },
+    {
+      "id": "cake-wars-2",
+      "title": "Cake Wars 2",
+      "description": "The thrilling sequel to Cake Wars by Quentin and Friends!",
+      "date": "2026-03-23",
+      "coverImage": "images/comics/CakeWars2/01.jpg",
+      "pageCount": 15,
+      "pages": [
+        "images/comics/CakeWars2/01.jpg",
+        "images/comics/CakeWars2/02.jpg",
+        "images/comics/CakeWars2/03.jpg",
+        "images/comics/CakeWars2/04.jpg",
+        "images/comics/CakeWars2/05.jpg",
+        "images/comics/CakeWars2/06.jpg",
+        "images/comics/CakeWars2/07.jpg",
+        "images/comics/CakeWars2/08.jpg",
+        "images/comics/CakeWars2/09.jpg",
+        "images/comics/CakeWars2/10.jpg",
+        "images/comics/CakeWars2/11.jpg",
+        "images/comics/CakeWars2/12.jpg",
+        "images/comics/CakeWars2/13.jpg",
+        "images/comics/CakeWars2/14.jpg",
+        "images/comics/CakeWars2/15.jpg"
+      ]
+    },
+    {
+      "id": "cake-wars-3",
+      "title": "Cake Wars 3",
+      "description": "The epic third chapter of Cake Wars by Quentin and Friends!",
+      "date": "2026-03-23",
+      "coverImage": "images/comics/CakeWars3/01.jpg",
+      "pageCount": 17,
+      "pages": [
+        "images/comics/CakeWars3/01.jpg",
+        "images/comics/CakeWars3/02.jpg",
+        "images/comics/CakeWars3/03.jpg",
+        "images/comics/CakeWars3/04.jpg",
+        "images/comics/CakeWars3/05.jpg",
+        "images/comics/CakeWars3/06.jpg",
+        "images/comics/CakeWars3/07.jpg",
+        "images/comics/CakeWars3/08.jpg",
+        "images/comics/CakeWars3/09.jpg",
+        "images/comics/CakeWars3/10.jpg",
+        "images/comics/CakeWars3/11.jpg",
+        "images/comics/CakeWars3/12.jpg",
+        "images/comics/CakeWars3/13.jpg",
+        "images/comics/CakeWars3/14.jpg",
+        "images/comics/CakeWars3/15.jpg",
+        "images/comics/CakeWars3/16.jpg",
+        "images/comics/CakeWars3/17.jpg"
+      ]
+    },
+    {
+      "id": "more-mr-weirdpants",
+      "title": "More Mr Weirdpants",
+      "description": "Even more adventures with Mr. Weird Pants by Quentin and Friends!",
+      "date": "2026-03-23",
+      "coverImage": "images/comics/More Mr Weirdpants/01.jpg",
+      "pageCount": 9,
+      "pages": [
+        "images/comics/More Mr Weirdpants/01.jpg",
+        "images/comics/More Mr Weirdpants/02.jpg",
+        "images/comics/More Mr Weirdpants/03.jpg",
+        "images/comics/More Mr Weirdpants/04.jpg",
+        "images/comics/More Mr Weirdpants/05.jpg",
+        "images/comics/More Mr Weirdpants/06.jpg",
+        "images/comics/More Mr Weirdpants/07.jpg",
+        "images/comics/More Mr Weirdpants/08.jpg",
+        "images/comics/More Mr Weirdpants/09.jpg"
+      ]
     }
   ]
 }
